@@ -1,0 +1,14 @@
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.csprojAssemblyReference.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\Interop.Accessibility.dll
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.csproj.ResolveComReference.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\staticwebassets\TagMe2.StaticWebAssets.Manifest.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\staticwebassets\TagMe2.StaticWebAssets.xml
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.RazorAssemblyInfo.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.RazorAssemblyInfo.cs
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.AssemblyInfoInputs.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.AssemblyInfo.cs
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.TagHelpers.input.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.TagHelpers.output.cache
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.dll
+C:\Users\yossr\Source\Repos\TagMe2\TagMe2\obj\Debug\netcoreapp3.0\TagMe2.pdb
